@@ -35,7 +35,6 @@
 
 ---
 
-### 📈 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tajutzam&theme=dark&hide_border=true&locale=id&mode=weekly)](https://git.io/streak-stats)
 ---
