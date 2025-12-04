@@ -7,16 +7,18 @@
 
 ### 👨‍💻 About Me
 
-- 👀 I’m passionate about backend development and building robust web applications.
+- 👀 Passionate about backend development and building robust web applications.
 - 🌱 Currently learning **Spring Boot** to deepen my understanding of scalable backend architectures.
-- 🛠️ Tech stack I’m most confident with:
+- 🛠️ Tech stack I'm confident with:
   - ✅ **Laravel** – My go-to PHP framework for building structured, MVC-based applications.
   - ✅ **Express.js** – Lightweight and efficient for creating RESTful APIs with Node.js.
   - ✅ **CodeIgniter** – Simple and fast PHP framework for rapid development.
   - ✅ **Spring Boot** – Powerful framework for enterprise-grade Java applications.
 - 💬 I enjoy discussing **API design**, **clean code**, and **database optimization**.
-- 💞️ I’m open to collaboration on Laravel, Express, or Spring Boot-based backend projects.
-- 📫 Reach me at: [Email](mailto:mohammadtajutzamzami07@gmail.com) | [LinkedIn]([https://www.linkedin.com/in/your-link](http://linkedin.com/in/mohammad-tajut-zam-zami))
+- 💞️ Open to collaboration on Laravel, Express, or Spring Boot-based backend projects.
+- 📫 Reach me at:  
+  📩 [Email](mailto:mohammadtajutzamzami07@gmail.com) |  
+  🔗 [LinkedIn](https://linkedin.com/in/mohammad-tajut-zam-zami)
 
 ---
 
@@ -35,19 +37,13 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tajutzam&show_icons=true&theme=radical" alt="tajutzam GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajutzam&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=tajutzam&theme=dark&hide_border=true&locale=id&mode=weekly)](https://git.io/streak-stats)
 ---
 
 ### 🌐 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 📧 [Email](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://linkedin.com/in/mohammad-tajut-zam-zami)
+- 📧 [Email](mailto:mohammadtajutzamzami07@gmail.com)
 
 ---
 
